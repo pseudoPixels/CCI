@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="179eb2ef-3cb3-48c2-897d-b5ff45a6c650" name="Default Changelist" comment="" />
+    <list default="true" id="179eb2ef-3cb3-48c2-897d-b5ff45a6c650" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/CareerCupLibrary/AssortedMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/CareerCupLibrary/BitVector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/CareerCupLibrary/LinkedListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/CareerCupLibrary/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap1/AssortedMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap1/BitVector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap1/LinkedListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap1/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap1/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap2/Solutions/LinkedListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap2/Solutions/SolutionMain1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap2/__Practice_MainTest$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap2/__Practice_MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap3/MainSoln3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap3/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap3/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap4_TreesAndGraphs/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingInterview/Chap4_TreesAndGraphs/Question_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chap4_TreesAndGraphs/Question_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chap4_TreesAndGraphs/Question_1.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,23 +45,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="36" />
+          <entry key="java" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="36" />
+          <entry key="JAVA" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="3231" />
+          <entry key="java" value="4799" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3231" />
+          <entry key="JAVA" value="4799" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -49,20 +70,84 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chap4_TreesAndGraphs/Question_1.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookSolution/CareerCupLibrary/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="1064">
+              <caret line="82" column="36" lean-forward="true" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
+              <folding>
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#1815#1816#0" expanded="true" />
+                <element signature="e#1866#1867#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CareerCupLibrary/TreeNode.java">
+        <entry file="file://$PROJECT_DIR$/BookSolution/Chapter 4/Question4_3/Question.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chap4_TreesAndGraphs/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookSolution/Chapter 4/Question4_1/Question.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chap4_TreesAndGraphs/Question_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chap4_TreesAndGraphs/BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+              <folding>
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#1108#1109#0" expanded="true" />
+                <element signature="e#1153#1154#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,6 +160,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,15 +180,20 @@
         <option value="$PROJECT_DIR$/src/Chap3/MyStack.java" />
         <option value="$PROJECT_DIR$/src/Chap3/MainSoln3.java" />
         <option value="$PROJECT_DIR$/src/Chap3/Node.java" />
+        <option value="$PROJECT_DIR$/src/Test/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/Chap4_TreesAndGraphs/Node.java" />
         <option value="$PROJECT_DIR$/src/Chap4_TreesAndGraphs/Question_1.java" />
+        <option value="$PROJECT_DIR$/src/Chap4_TreesAndGraphs/BST.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2870" />
+    <option name="x" value="398" />
+    <option name="y" value="27" />
     <option name="width" value="1378" />
     <option name="height" value="992" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -118,6 +211,12 @@
               <item name="JavaQ" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaQ" type="462c0819:PsiDirectoryNode" />
               <item name="BookSolution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaQ" type="462c0819:PsiDirectoryNode" />
+              <item name="BookSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="CareerCupLibrary" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaQ" type="b2602c69:ProjectViewProjectNode" />
@@ -141,20 +240,7 @@
               <item name="JavaQ" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaQ" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="CareerCupLibrary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaQ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Chap4_TreesAndGraphs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaQ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chap4_TreesAndGraphs" type="462c0819:PsiDirectoryNode" />
-              <item name="Question_1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -164,7 +250,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548129472786" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548277193763" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Book Solution" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -192,6 +278,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Question_1">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.HelloWorld" />
+      <module name="CCI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainSoln3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chap3.MainSoln3" />
       <module name="CCI" />
@@ -201,13 +300,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap1.MainTest" />
-      <module name="CCI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -299,19 +391,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainTest" />
       <item itemvalue="Application.__Practice_MainTest" />
       <item itemvalue="Application.SolutionMain1" />
       <item itemvalue="Application.MainSoln3" />
       <item itemvalue="Application.Question_1" />
+      <item itemvalue="Application.HelloWorld" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Question_1" />
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.MainSoln3" />
         <item itemvalue="Application.SolutionMain1" />
         <item itemvalue="Application.__Practice_MainTest" />
-        <item itemvalue="Application.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -329,19 +421,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2627" y="-2" width="1853" height="1082" extended-state="6" />
+    <frame x="67" y="25" width="2493" height="1575" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6834382" visible="true" weight="0.20088544" />
-      <window_info id="Structure" order="1" sideWeight="0.31656185" side_tool="true" visible="true" weight="0.20088544" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.68435496" visible="true" weight="0.14834492" />
+      <window_info id="Structure" order="1" sideWeight="0.315645" side_tool="true" visible="true" weight="0.14834492" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" weight="0.24421297" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.24359861" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,9 +501,6 @@
           <caret line="55" column="5" selection-start-line="3" selection-end-line="55" selection-end-column="5" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookSolution/CareerCupLibrary/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/BookSolution/CareerCupLibrary/LinkedListNode.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -487,13 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookSolution/Chapter 4/Question4_7/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="23" selection-start-line="2" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chap2/__Practice_MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -501,24 +583,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookSolution/Chapter 4/Question4_1/Question.java">
+    <entry file="file://$PROJECT_DIR$/BookSolution/Chapter 4/Question4_2/Question.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookSolution/Chapter 4/Question4_2/Node.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookSolution/Chapter 4/Question4_2/Graph.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookSolution/Chapter 4/Question4_4/Question.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="33" />
+        <state relative-caret-position="420">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chap4_TreesAndGraphs/Question_1.java">
+    <entry file="file://$PROJECT_DIR$/BookSolution/Chapter 4/Question4_7/Question.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="570">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CareerCupLibrary/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+        <state relative-caret-position="438">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="e#1815#1816#0" expanded="true" />
+            <element signature="e#1866#1867#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookSolution/CareerCupLibrary/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="82" column="36" lean-forward="true" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
+          <folding>
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#1815#1816#0" expanded="true" />
+            <element signature="e#1866#1867#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookSolution/Chapter 4/Question4_3/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap4_TreesAndGraphs/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookSolution/Chapter 4/Question4_1/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap4_TreesAndGraphs/Question_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap4_TreesAndGraphs/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+          <folding>
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
