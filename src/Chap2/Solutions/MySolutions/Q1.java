@@ -1,6 +1,9 @@
-package Chap2.Solutions;
+package Chap2.Solutions.MySolutions;
 
 
+import Chap2.Solutions.LinkedListNode;
+
+import java.util.HashMap;
 import java.util.Hashtable;
 
 public class Q1 {
@@ -22,6 +25,29 @@ public class Q1 {
         }
 
     }
+
+
+
+
+    public static void deleteDupsHasMap(LinkedListNode head){
+
+        HashMap<Integer, Boolean> hitMap = new HashMap<Integer, Boolean>();
+
+        while(head != null){
+            if(hitMap.containsKey(head.data) == false){
+                hitMap.put(head.data, true);
+            }
+            else{
+                head.prev.next = head.next;
+                if(head.next != null)head.next.prev = head.prev;
+            }
+            head = head.next;
+        }
+
+    }
+
+
+
 
 
     public static void deleteDuplicates_NoAdditionalBuffer(LinkedListNode head){
@@ -58,7 +84,7 @@ public class Q1 {
         LinkedListNode n1 = new LinkedListNode(10, null, null);
         LinkedListNode n2 = new LinkedListNode(10, null, null);
         LinkedListNode n3 = new LinkedListNode(10, null, null);
-        LinkedListNode n4 = new LinkedListNode(10, null, null);
+        LinkedListNode n4 = new LinkedListNode(200, null, null);
 
         n1.setNext(n2);
         n2.setNext(n3);
@@ -68,7 +94,8 @@ public class Q1 {
         n3.setPrevious(n2);
         n4.setPrevious(n3);
 
-        deleteDuplicates_NoAdditionalBuffer(n1);
+        //deleteDuplicates_NoAdditionalBuffer(n1);
+        deleteDupsHasMap(n1);
 
         System.out.println(n1.printForward());
 

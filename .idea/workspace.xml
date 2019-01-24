@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179eb2ef-3cb3-48c2-897d-b5ff45a6c650" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Chap2/Solutions/SolutionMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chap2/Solutions/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCI/Chap1/MySolutions/Q8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CCI/Chap1/MySolutions/Q8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCI/Chap2/Solutions/SolutionMain1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCI/Chap2/__Practice_MainTest$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCI/Chap2/__Practice_MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chap2/Solutions/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chap2/Solutions/MySolutions/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chap2/__Practice_MainTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,60 +17,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="526787802">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="71" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="71" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="14" />
-          <entry key="java" value="6722" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="6722" />
-          <entry key="PLAIN_TEXT" value="14" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chap2/Solutions/LinkedListNode.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chap2/Solutions/MySolutions/Q2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            <state relative-caret-position="435">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chap2/Solutions/Q1.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chap2/Solutions/SingleLinkedListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="75">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -106,6 +74,10 @@
         <option value="$PROJECT_DIR$/src/Chap1/MySolutions/Q3.java" />
         <option value="$PROJECT_DIR$/src/Chap1/MySolutions/Q4.java" />
         <option value="$PROJECT_DIR$/src/Chap1/MySolutions/Q8.java" />
+        <option value="$PROJECT_DIR$/src/Chap2/Solutions/Q1.java" />
+        <option value="$PROJECT_DIR$/src/Chap2/Solutions/Q2.java" />
+        <option value="$PROJECT_DIR$/src/Chap2/Solutions/SingleLinkedListNode.java" />
+        <option value="$PROJECT_DIR$/src/Chap2/Solutions/MySolutions/Q2.java" />
       </list>
     </option>
   </component>
@@ -115,49 +87,70 @@
     <option name="width" value="1378" />
     <option name="height" value="992" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JavaQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaQ" type="462c0819:PsiDirectoryNode" />
+              <item name="CCI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaQ" type="462c0819:PsiDirectoryNode" />
+              <item name="CCI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaQ" type="462c0819:PsiDirectoryNode" />
+              <item name="CCI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chap2" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaQ" type="462c0819:PsiDirectoryNode" />
+              <item name="CCI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chap2" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap1" type="462c0819:PsiDirectoryNode" />
+              <item name="MySolutions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Solutions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="MySolutions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548296623388" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Book Solution" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548356430253" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -182,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q8">
+  <component name="RunManager" selected="Application.Q2">
     <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chap1.MySolutions.Q1" />
       <module name="CCI" />
@@ -196,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap1.MySolutions.Q2" />
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2.Solutions.MySolutions.Q1" />
       <module name="CCI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chap1.MySolutions.*" />
+          <option name="PATTERN" value="Chap2.Solutions.MySolutions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap1.MySolutions.Q3" />
+    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2.Solutions.MySolutions.Q2" />
       <module name="CCI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chap1.MySolutions.*" />
+          <option name="PATTERN" value="Chap2.Solutions.MySolutions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,67 +241,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="CCI" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="CCI" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Q1" />
-      <item itemvalue="Application.Q2" />
-      <item itemvalue="Application.Q3" />
       <item itemvalue="Application.Q4" />
       <item itemvalue="Application.Q8" />
+      <item itemvalue="Application.Q1 (1)" />
+      <item itemvalue="Application.Q2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.Q1 (1)" />
+        <item itemvalue="Application.Q1" />
         <item itemvalue="Application.Q8" />
         <item itemvalue="Application.Q4" />
-        <item itemvalue="Application.Q3" />
-        <item itemvalue="Application.Q2" />
-        <item itemvalue="Application.Q1" />
       </list>
     </recent_temporary>
   </component>
@@ -326,11 +272,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="2493" height="1575" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6845907" visible="true" weight="0.14834492" />
-      <window_info id="Structure" order="1" sideWeight="0.3154093" side_tool="true" visible="true" weight="0.14834492" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.89920425" visible="true" weight="0.14997233" />
+      <window_info id="Structure" order="1" sideWeight="0.10079575" side_tool="true" visible="true" weight="0.14997233" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -338,7 +284,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.13771626" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.18574513" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -347,6 +293,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053364" side_tool="true" weight="0.221174" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32985386" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -356,9 +303,6 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
@@ -518,13 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chap2/__Practice_MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chap4_TreesAndGraphs/BST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -554,17 +491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chap3/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BookSolution/Chapter 4/Question4_1/Question.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -573,17 +499,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#503#504#0" expanded="true" />
             <element signature="e#555#556#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chap1/MySolutions/Q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-          <folding>
-            <element signature="e#885#886#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -656,17 +571,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chap2/Solutions/LinkedListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/Chap1/MySolutions/Q1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chap2/Solutions/Q1.java">
+    <entry file="file://$PROJECT_DIR$/src/Chap2/__Practice_MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="210">
+          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap3/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap2/Solutions/MySolutions/Q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-832">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#676#694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap2/Solutions/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap2/Solutions/SingleLinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap2/Solutions/MySolutions/Q2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
         </state>
       </provider>
     </entry>
