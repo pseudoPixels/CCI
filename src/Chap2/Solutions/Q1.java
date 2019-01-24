@@ -3,7 +3,7 @@ package Chap2.Solutions;
 
 import java.util.Hashtable;
 
-public class SolutionMain1 {
+public class Q1 {
 
     public static void deleteDuplicates(LinkedListNode head){
         Hashtable hashtable = new Hashtable();
